@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-## Profuction
+## Production
 
 Production (live)
 https://hello-app.mebeborn.now.sh/
